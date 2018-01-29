@@ -46,6 +46,7 @@ def function2(num_mail):
         print(emails_done)
         emails_done = emails_done + 1
     server.quit()
+    #thisistoshowgithubwhaahhahahahh
 
 #Function2 is faster than function1 as far as im aware
 #CALL THE FUNCTIOn
